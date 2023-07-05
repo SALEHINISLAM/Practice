@@ -1,0 +1,23 @@
+.header{
+    height: 30px;
+    background-image: url('https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+h3{     
+    font-size: 30px;
+    text-decoration: overline;
+}
+.second{
+    /* display: none; */
+    /* visibility: hidden; */
+}
+.blog{
+    margin: 40px;
+    background-color: aqua;
+    border-radius: 20px;
+    border-left: 40px solid black;
+    padding: 20px;
+    box-shadow:  10px 1px 20px black;
+}
